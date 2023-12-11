@@ -3,5 +3,5 @@
 # Collaborators
 * Joshua Alana
 * Solomon Kporon
-* Justice
+* Justice Chukwuonye
 * Ronald Abimbola
