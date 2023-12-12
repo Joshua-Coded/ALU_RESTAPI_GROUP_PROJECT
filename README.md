@@ -13,7 +13,8 @@ Welcome to our Tv Show Web Application, a place where you can find the Tv Show o
 * Run git clone git@github.com:Joshbam-joshwilly/ALU_RESTAPI_GROUP_PROJECT.git
 That will clone the source code to your local machine
 * Run cd ALU_RESTAPI_GROUP_PROJECT
-This would change directory into the github source code
+This would change Directory into the Github source code
 * From your terminal, Run open index.html to open it on the browser.
-* Congratulations on successfully cloning and running the applicaton from your local machine.
+* ![image](https://github.com/Joshbam-joshwilly/ALU_RESTAPI_GROUP_PROJECT/assets/56293324/600a6e2c-9c66-4d58-a9d1-05bbff8d98ce)
+* * Congratulations on successfully cloning and running the application from your local machine.
 
