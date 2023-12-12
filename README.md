@@ -1,8 +1,8 @@
 # Hello World!
 Welcome to our Tv Show Web Application, a place where you can find the Tv Show of your choice. The application is developed  to make Api calls to Tvmaze.com.
-Tvmaze.com is an open source api for tv shows. The api enabled us to use any endpoint in our application by making calls to it. when we made calls to it, we get the expected result of shows as typed in the search bar.
+Tvmaze.com is an open source api for tv shows. The api enabled us to use any endpoint in our application by making calls to it. when we made calls to it, we get the expected result of tv shows as typed in the search bar.
 
-# MeetCollaborators
+# Meet our Collaborators
 * Joshua Alana
 * Solomon Kporon
 * Justice Chukwuonye
