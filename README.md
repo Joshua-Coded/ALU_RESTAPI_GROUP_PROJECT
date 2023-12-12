@@ -1,3 +1,6 @@
+# Hello World!
+Welcome to our Tv Show Web Application, a place where you can find the Tv Show of your choice.
+
 # ALU REST-API GROUP PROJECT
 
 # Collaborators
