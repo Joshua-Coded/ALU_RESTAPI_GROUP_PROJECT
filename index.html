@@ -3,17 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
     <title>TV SHOW APP</title>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 </head>
-<body>
-    
-    <h1>TV SHOW APP</h1>
-    <form id="searchForm">
-        <input type="text" name="query" placeholder="search your favourite tv shows" />
-        <button>Search</button>
-    </form>
+<body> 
+    <div class="main-top-container">
+        <div class="top-nav-div-container">
+            <div class="top-nav-div">
+                <h1>TV SHOW APP</h1>
+                <form id="searchForm" class="searchForm">
+                    <input type="text" name="query" placeholder="search for tv shows" />
+                    <input type="submit" value="Search" />
+                </form>
+            </div>
+        </div>
 
+        <div class="banner">
+            <img src="banner.jpg" class="banner-img" alt=""/>
+            <div class="banner-text">
+                <span>Top Movie Today</span>
+                <h1>
+                    Across the Cosmic Veil
+                    <br>
+                    Chronicles of the Galactic Unknown
+                </h1>
+                <input type="submit" value="Watch Now" />
+            </div>
+        </div>
+
+    </div>
+
+    <div class="movie-card-container">
+        <div class="content-columns multilined p-0 top-spacer"></div>    
+    </div>
 
     <script src="index.js"></script>
 </body>
